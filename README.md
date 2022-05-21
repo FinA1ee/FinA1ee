@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Zhu (Jack) Yuchen, a passionate full-stack engineer.
+I'm Zhu (Jack) Yuchen, a passionate full-stack engineer🧑‍💻.
 
+**Work**
 - 🔭 I’m currently working in Kuaishou, Beijing as a Font-End developer.
-- 🌱 I’m currently learning three.js as Web 3D solution.
+- 🌱 I’m currently learning Three.js as a web 3D solution.
 - 😄 Professional Experience: 1 year.
-- ⚡ Fun fact: I watched all 8 seasons of Game of Throne in just 1 month. (Tyrion My Boy~!)
+- 🤟 My Motto: Make the world a better place.
+
+
+**Life**
+- ❤️ What I Love: Travel ✈️ Basketball 🏀 Guitar 🎸 Movies & TVs 🍿
+- ⚡ Fun fact: I watched all 8 seasons of Game of Throne in 3 weeks. (Tyrion My Boy~!)
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
