@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Zhu (Jack) Yuchen, a passionate full-stack engineer🧑‍💻.
+I'm Zhu (Jack) Yuchen, passionate full-stack engineer at his 20's 🧑‍💻.
 
 **Work**
-- 🔭 I’m currently working in Kuaishou, Beijing as a Font-End developer.
+- 🔭 I’m currently seeking opportunity of Shanghai based Front-End or SDE position with 1-2 years experience.
 - 🌱 I’m currently learning Three.js as a web 3D solution.
-- 😄 Professional Experience: 1 year.
+- 😄 Professional Experience: 1 - 2 year.
 - 🤟 My Motto: Make the world a better place.
 
 
